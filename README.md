@@ -36,3 +36,4 @@ Future Enhancements
 - Improve the design for better user experience and add themes or skins for personalization.
 
 This project is a great introduction to building GUI applications with Python and serves as a useful utility for performing basic arithmetic operations.
+![ts-1 p](https://github.com/user-attachments/assets/974b7edd-6c71-41a3-a797-680b53956719)
