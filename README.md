@@ -37,3 +37,4 @@ Future Enhancements
 
 This project is a great introduction to building GUI applications with Python and serves as a useful utility for performing basic arithmetic operations.
 ![ts-1 p](https://github.com/user-attachments/assets/974b7edd-6c71-41a3-a797-680b53956719)
+![ts-1 p2](https://github.com/user-attachments/assets/9a1f73b0-4fa0-4e81-ad67-6cd3e0c0cb62)
